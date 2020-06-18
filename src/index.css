@@ -5,4 +5,7 @@ body {
   width: 150px;
   height: 150px;
   background-color: black;
+  margin-top: 50px;
+  margin-left: 50px;
+  border-radius: 10px;
 }
